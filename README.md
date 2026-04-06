@@ -1,13 +1,11 @@
-<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 20px;">
-  <img src="perfil.png" style="width: 180px; border-radius: 50%; border: 4px solid #d5bdaf;">
-  <div>
-    <h1 style="margin-top: 0;">PhD. Eliana Elizabeth Botta</h1>
-    <p style="font-size: 1.1rem; color: #606c71;">Biological Researcher | Biochemistry & Physiology Specialist</p>
-    <a href="cv.pdf" class="btn">Download Full CV</a>
-  </div>
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="header_pro.png" style="width: 100%; max-width: 1000px; height: auto;">
 </div>
 
-<hr>
+<div style="text-align: center; margin-top: -20px; margin-bottom: 50px;">
+  <a href="cv.pdf" class="btn">Download Full CV (PDF)</a>
+  <a href="https://orcid.org/..." class="btn">ORCID iD</a>
+</div>
 
 Expert in interdisciplinary research across cardiovascular, metabolic, and genetic diseases, with a proven track record of driving innovation and high-impact scientific discoveries. My work focuses on advancing therapeutic strategies for cardiovascular, metabolic, and genetic diseases**. With over 5 years of high-level research experience in Biochemistry, Pharmacology, and Physiology, I lead interdisciplinary investigations that bridge the gap between fundamental science and clinical applications. Beyond my technical contributions, I am a dedicated **mentor to scientific trainees**, fostering collaborative environments that drive innovation in complex biomedical challenges.
 ---
