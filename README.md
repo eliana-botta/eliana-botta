@@ -17,13 +17,14 @@ Expert in interdisciplinary research across cardiovascular, metabolic, and genet
 </div>
 ---
 
-<br><br>
-<div style="background-color: #faf7f2; padding: 25px; border-radius: 12px; border-left: 6px solid #b5838d; box-shadow: 2px 2px 10px rgba(0,0,0,0.02);">
-  <h3 style="margin-top: 0; color: #6d6875;">Strategic Impact</h3>
-  <p style="font-style: italic; color: #4a4e69; line-height: 1.6;">
-    "My research bridges the gap between complex genetic data and real-world clinical solutions, 
-    aiming to revolutionize how we treat cardiovascular and metabolic disorders through 
-    interdisciplinary innovation."
+<div style="background-color: #f8f9fa; padding: 35px; border-left: 4px solid #333333; margin: 40px 0; border-radius: 0 8px 8px 0; box-shadow: 2px 2px 15px rgba(0,0,0,0.03);">
+  <h3 style="margin-top: 0; color: #222; font-family: 'Cy Grotesk Key', sans-serif; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">
+    Strategic Research Impact
+  </h3>
+  <p style="font-style: italic; color: #444; font-size: 1.1rem; line-height: 1.7; margin-bottom: 0;">
+    "By bridging molecular biochemistry with physiological clinical applications, my work aims to decode 
+    the underlying mechanisms of metabolic disorders, providing the scientific foundation 
+    for next-generation therapeutic interventions."
   </p>
 </div>
 
