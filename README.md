@@ -1,4 +1,4 @@
-![Dr. Eliana Botta](perfil.jpg.jpg)
+![Dr. Eliana Botta](perfil.jpg.png)
 
 # PhD. Eliana Elizabeth Botta
 ## Staff Scientist at NIH. 
