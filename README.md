@@ -1,15 +1,13 @@
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 20px;">
-  <img src="perfil.jpg" style="width: 180px; border-radius: 50%; border: 4px solid #159957;">
+  <img src="perfil.jpg.png" style="width: 180px; border-radius: 50%; border: 4px solid #159957;">
   <div>
-    <h1 style="margin-top: 0;">Dr. Eliana Botta</h1>
+    <h1 style="margin-top: 0;">PhD. Eliana Elizabeth Botta</h1>
     <p style="font-size: 1.1rem; color: #606c71;">Biological Researcher | Biochemistry & Physiology Specialist</p>
     <a href="cv.pdf" class="btn">Download Full CV</a>
   </div>
 </div>
 
 <hr>
-![PhD. Eliana Elizabeth Botta](perfil.jpg.png)
-
 
 # PhD. Eliana Elizabeth Botta
 ## Staff Scientist at NIH. 
