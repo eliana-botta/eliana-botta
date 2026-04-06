@@ -6,12 +6,6 @@
   <img src="impacto_logos.png" alt="Scientific Impact Logos" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 </div>
 
-
-<div style="text-align: center; margin-bottom: 50px;">
-  <a href="CV_ElianaBotta_2026_ind.docx" class="btn">Download Full CV (PDF)</a> &nbsp;
-  <a href="https://orcid.org/0000-0003-1834-4015" class="btn"> ORCID iD Profile</a>
-</div>
-
 <div style="text-align: justify; line-height: 1.6; color: #444;">
 </div>
 
@@ -78,6 +72,12 @@ Expert in interdisciplinary research across cardiovascular, metabolic, and genet
     <p>• <strong>Botta, E. E.</strong>, et al. (2020). <em>"Improvement in the capacity of HDL to acquire free cholesterol associated with anti-inflammatory actions of tofacitinib in patients with RA."</em> 88th EAS Virtual Congress.</p>
 
     <p>• Pierini, F., ..., <strong>Botta, E.</strong>, et al. (2019). <em>"Effect of tocilizumab on HDL and LDL characteristics in patients with Rheumatoid Arthritis."</em> ACR/ARP Annual Meeting, Atlanta, GA.</p>
+
+
+    <div style="text-align: center; margin-bottom: 50px;">
+  <a href="CV_ElianaBotta_2026_ind.docx" class="btn">Download Full CV (PDF)</a> &nbsp;
+  <a href="https://orcid.org/0000-0003-1834-4015" class="btn"> ORCID iD Profile</a>
+</div>
 
     <p>• <strong>Botta, E.</strong>, et al. (2017). <em>"Possible effect of cholesteryl-ester transfer protein activity on paraoxonase 1 antioxidant function."</em> 21º IUNS International Congress of Nutrition, Buenos Aires.</p>
   </div>
